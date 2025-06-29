@@ -1,0 +1,7 @@
+# Ignorar pastas de build do ESP-IDF
+/build/
+/build/**
+
+# Ignorar arquivos gerados pelo VSCode, DevContainer, etc.
+.devcontainer/
+.vscode/
